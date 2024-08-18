@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExploreTours</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Baking with Gemini</string>
+    <string name="image1_description">Cupcake</string>
+    <string name="image2_description">Cookies</string>
+    <string name="image3_description">Cake</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+
+    <string name="search_title">Search Location For Tours</string>
+
+    <string name="prompt_placeholder">Paris</string>
+    <string name="label_prompt">Where do you want to explore?</string>
+    <string name="search_prompt">Location Prompt</string>
+    <string name="error_message">Oops! Unable to find a match. Try again later</string>
+
+<!--
+    <string name="prompt_placeholder">Provide a travel location to look for tours</string>
+    -->
+</resources>
